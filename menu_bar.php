@@ -1,0 +1,70 @@
+<header id="header"><!--header-->
+		<div class="header_top"><!--header_top-->
+			<div class="container">
+				<div class="row">
+					<div class="col-sm-6">
+						<div class="contactinfo">
+							<ul class="nav nav-pills">
+								<li><a href="#"><i class="fa fa-phone"></i> +2 95 01 88 821</a></li>
+								<li><a href="#"><i class="fa fa-envelope"></i> info@AgroZone.com</a></li>
+							</ul>
+						</div>
+					</div>
+					<div class="col-sm-6">
+						<div class="social-icons pull-right">
+							<ul class="nav navbar-nav">
+								<li><a href="#"><i class="fa fa-facebook"></i></a></li>
+								<li><a href="#"><i class="fa fa-twitter"></i></a></li>
+								<li><a href="#"><i class="fa fa-linkedin"></i></a></li>
+								<li><a href="#"><i class="fa fa-dribbble"></i></a></li>
+								<li><a href="#"><i class="fa fa-google-plus"></i></a></li>
+							</ul>
+						</div>
+					</div>
+				</div>
+			</div>
+		</div><!--/header_top-->
+		
+		<div class="header-middle"><!--header-middle-->
+			<div class="container">
+				<div class="row">
+					<div class="col-sm-4">
+						<div class="logo pull-left">
+							<a href="index.php">
+                            <h3><span>Agro</span>Zone</h3>
+                            <!--<img src="images/home/logo.png" alt="" />--></a>
+						</div>
+						<div class="btn-group pull-right">
+							
+						</div>
+					</div>
+					
+						<!--<div class="mainmenu pull-left">
+							<ul class="nav navbar-nav collapse navbar-collapse">
+								<li><a href="index.php" class="active">Home</a></li>
+                                <li class="dropdown"><a href="#">Registration<i class="fa fa-angle-down"></i></a>
+                                    <ul role="menu" class="sub-menu">
+                                        <li><a href="register_college.php">College</a></li>
+                                        <li><a href="register_user.php">User</a></li>
+										
+                                    </ul>
+                                </li> 
+                                
+								
+								<!--<li class="dropdown"><a href="#">Blog<i class="fa fa-angle-down"></i></a>
+                                    <ul role="menu" class="sub-menu">
+                                        <li><a href="blog.html">Blog List</a></li>
+										<li><a href="blog-single.html">Blog Single</a></li>
+                                    </ul>
+                                </li> 
+								<li><a href="404.html">404</a></li>-->
+                                
+								<!--<li><a href="contact-us.php">Contact</a></li>-->
+							</ul>
+						</div>
+					</div>
+			
+				</div>
+			</div>
+		</div><!--/header-bottom-->
+	</header>
